@@ -45,21 +45,19 @@ img {
 .buuton {
   background-color: #b1afaf;
 }
-.bi bi-chevron-right {
+/* .bi bi-chevron-right {
   display: flex;
   max-height: 200px;
   background-color: #c59292;
   color: #141414;
   border-bottom: none;
-}
+} */
 .imagenes {
   display: flex;
   position: relative;
   margin-left: 5px;
-  overflow-x: scroll;
+  /* overflow-x: scroll; */
   scrollbar-width: none;
-}
-@media (max-widtth: 768px) {
 }
 
 .segundo_div {
